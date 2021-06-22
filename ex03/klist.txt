@@ -1,0 +1,5 @@
+Credentials cache: API:8793E30B-56F0-4AEE-8562-4594CD9F2547
+        Principal: mmartine@42MADRID.COM
+
+  Issued                Expires               Principal
+Jun 22 10:20:49 2021  Jun 22 20:20:49 2021  krbtgt/42MADRID.COM@42MADRID.COM
